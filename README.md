@@ -1,2 +1,2 @@
-# ProjectST7
-Github for the project "Image and Sound" in the ST7.
+# Pacmain : Project S8
+Github for the project PacMain
