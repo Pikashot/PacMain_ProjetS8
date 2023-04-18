@@ -1,6 +1,6 @@
 # Pacmain : Project S8
 Github for the project PacMain.  
-Code adapted from https://github.com/kinivi/hand-gesture-recognition-mediapipe
+Code adapted from https://github.com/kinivi/hand-gesture-recognition-mediapipe by Kazuhito Takahashi (https://twitter.com/KzhtTkhs).
 
 # Requirements
 * mediapipe 0.8.1
