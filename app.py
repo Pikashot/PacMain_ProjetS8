@@ -18,8 +18,8 @@ from utils import CvFpsCalc
 loaded_RF_model = pickle.load(open('model/trained_RF', "rb"))
 
 # choose one reeducation exercise from 0, 5, 8, 9 or -1 for all positions
-exercise = 5
-threshold = 0.5 # 0.8 recommended for exos 0, 8, 9 and -1 ; 0.5 recommended for exo 5
+exercise = -1
+threshold = 0.8 # 0.8 recommended for exos 0, 8, 9 and -1 ; 0.5 recommended for exo 5
 
 if exercise == -1:
     labels_path = 'model/labels/labels.csv'
